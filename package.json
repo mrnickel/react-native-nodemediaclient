@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mingliang Chen",
-  "license": ""
+  "license": "",
+  "files": [
+    "android/",
+    "ios/",
+    "index.js",
+    "NodeCameraModule.js",
+    "NodePlayerModule.js",
+    "RNNodeMediaClient.podspec"
+  ]
 }
